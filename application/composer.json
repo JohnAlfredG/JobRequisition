@@ -1,0 +1,13 @@
+{
+    "name": "johnalfredgarcia/march242018",
+    "type": "project",
+    "authors": [
+        {
+            "name": "JohnAlfredG",
+            "email": "johnalfred9942119@gmail.com"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
